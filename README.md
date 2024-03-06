@@ -1,1 +1,1 @@
-# Python_miniproject
+# Sign language to Text converter
